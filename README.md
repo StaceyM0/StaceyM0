@@ -10,7 +10,6 @@ Find out more about me & feel free to connect with me here 🔗:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Stacey%20Montes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stacey-montes/)](https://www.linkedin.com/in/stacey-montes/)
 [![Medium Badge](https://img.shields.io/badge/Stacey%20Montes-12100E?style=flat-square&logo=medium&logoColor=white&link=https://https://medium.com/@StaceyMontes![image](https://user-images.githubusercontent.com/124016788/215660520-b41a3905-17ee-465c-8681-8dd691d8ccbb.png)/)](https://https://medium.com/@StaceyMontes![image](https://user-images.githubusercontent.com/124016788/215660560-4a4129ce-ee53-43c6-ae9f-1aa7c0b09f41.png)/)
-[![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Getatmexpress@gmail.com)](mailto:Getatmexpress@gmail.com)
 
 
 ## ⚡ Technologies
