@@ -1,9 +1,9 @@
 ### Hey y'all 👋 
 
-Thanks for stoping by! My name is Stacey and I am currently transitioning into the tech world from the medical field. Crazy, I know! 😎 I am interested in becoming a DevOps Engineer and then a Solutions Architect. I just finished learning about Linux and passed the LPI Linux Essentials certification 
+My name is Stacey and I am currently transitioning into the tech world from the medical field. Crazy, I know! 😎 I am working on becoming a DevOps Engineer and then a Solutions Architect. I just finished learning about Linux and passed the LPI Linux Essentials certification 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
 
-The next certification I am going for is AWS- Developer Associate ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) Wish me luck! 
+The next certification I am going for is AWS- Developer Associate ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) Wish me luck! Thanks for stoping by! 
 
 Find out more about me & feel free to connect with me here 🔗:
 
@@ -11,6 +11,7 @@ Find out more about me & feel free to connect with me here 🔗:
 [![Linkedin Badge](https://img.shields.io/badge/-Stacey%20Montes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stacey-montes/)](https://www.linkedin.com/in/stacey-montes/)
 [![Medium Badge](https://img.shields.io/badge/Stacey%20Montes-12100E?style=flat-square&logo=medium&logoColor=white&link=https://https://medium.com/@StaceyMontes![image](https://user-images.githubusercontent.com/124016788/215660520-b41a3905-17ee-465c-8681-8dd691d8ccbb.png)/)](https://https://medium.com/@StaceyMontes![image](https://user-images.githubusercontent.com/124016788/215660560-4a4129ce-ee53-43c6-ae9f-1aa7c0b09f41.png)/)
 [![Gmail Badge](https://img.shields.io/badge/-Email%20Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Getatmexpress@gmail.com)](mailto:Getatmexpress@gmail.com)
+
 
 ## ⚡ Technologies
 
