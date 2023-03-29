@@ -1,9 +1,10 @@
 ### Hey y'all 👋 
 
-My name is Stacey and I am currently transitioning into the tech world from the medical field. Crazy, I know! 😎 I am working on becoming a DevOps Engineer and then a Solutions Architect. I just finished learning about Linux and passed the LPI Linux Essentials certification 
+My name is Stacey and I am currently transitioning into the tech world from the medical field. Crazy, I know! 😎 I am working on becoming a DevOps Engineer and then a Solutions Architect. I recently passed the LPI Linux Essentials certification and the AWS Certified Developer Associate!  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-The next certification I am going for is AWS- Developer Associate ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) Wish me luck! Thanks for stoping by! 
+The next certification I am going for is Terraform! Wish me luck! Thanks for stoping by! 
 
 Find out more about me & feel free to connect with me here 🔗:
 
