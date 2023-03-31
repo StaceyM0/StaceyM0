@@ -1,12 +1,12 @@
-### Hey y'all 👋 
+### Hey y'all 👋🏼 
 
-My name is Stacey and I am currently transitioning into the tech world from the medical field. Crazy, I know! 😎 I am working on becoming a DevOps Engineer and then a Solutions Architect. I recently passed the LPI Linux Essentials certification and the AWS Certified Developer Associate!  
+My name is Stacey and I am transitioning into the tech world from the medical field. Crazy, I know! 😎 What can I say, I love learning! I am working on becoming a DevOps Engineer and then a Solutions Architect. I recently passed the LPI Linux Essentials certification and the AWS Certified Developer Associate! Up next will be Terraform, so stay tuned! 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-The next certification I am going for is Terraform! Wish me luck! Thanks for stoping by! 
+Thanks for stoping by! ⛰️
 
-Check out my published articles & feel free to connect with me here 🔗:
+Check out my published articles on different topics all relating to the cloud and DevOps field! & feel free to connect with me 🔗:
 
 
 [![Medium Badge](https://img.shields.io/badge/Stacey%20Montes-12100E?style=flat-square&logo=medium&logoColor=white&link=https://https://medium.com/@StaceyMontes![image](https://user-images.githubusercontent.com/124016788/215660520-b41a3905-17ee-465c-8681-8dd691d8ccbb.png)/)](https://https://medium.com/@StaceyMontes![image](https://user-images.githubusercontent.com/124016788/215660560-4a4129ce-ee53-43c6-ae9f-1aa7c0b09f41.png)/)
