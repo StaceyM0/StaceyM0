@@ -4,7 +4,7 @@ My name is Stacey and I am a DevOps Cloud Engineer who is transitioning from the
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-Thanks for stoping by! ⛰️
+Thanks for stoping by! ⛰️⛰️⛰️⛰️
 
 Check out my published articles on different topics all relating to the cloud and DevOps field! & feel free to connect with me 🔗:
 
