@@ -12,7 +12,6 @@ Check out my published articles on different topics all relating to the cloud an
 [![Medium Badge](https://img.shields.io/badge/Stacey%20Montes-12100E?style=flat-square&logo=medium&logoColor=white&link=https://https://medium.com/@StaceyMontes![image](https://user-images.githubusercontent.com/124016788/215660520-b41a3905-17ee-465c-8681-8dd691d8ccbb.png)/)](https://https://medium.com/@StaceyMontes![image](https://user-images.githubusercontent.com/124016788/215660560-4a4129ce-ee53-43c6-ae9f-1aa7c0b09f41.png)/)
 [![Linkedin Badge](https://img.shields.io/badge/-Stacey%20Montes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stacey-montes/)](https://www.linkedin.com/in/stacey-montes/)
 
-LETS GO YALL
 
 ## ⚡ Technologies 👩‍💻
 
