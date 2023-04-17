@@ -1,4 +1,4 @@
-### Hey y'all 👋🏼 🏼  🏼  🏼 
+### Hey y'all 👋🏼
 
 My name is Stacey and I am a DevOps Cloud Engineer who is transitioning from the medical field. Crazy, I know! 😎 What can I say, I love learning! I am working on becoming a DevOps Engineer and then a Solutions Architect. I recently passed the LPI Linux Essentials certification and the AWS Certified Developer Associate! Up next will be Terraform, so stay tuned! 
 
