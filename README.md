@@ -1,4 +1,4 @@
-### Hey y'all 👋🏼 
+### Hey y'all 👋🏼 🏼  🏼  🏼  🏼  🏼  🏼 
 
 My name is Stacey and I am a DevOps Cloud Engineer who is transitioning from the medical field. Crazy, I know! 😎 What can I say, I love learning! I am working on becoming a DevOps Engineer and then a Solutions Architect. I recently passed the LPI Linux Essentials certification and the AWS Certified Developer Associate! Up next will be Terraform, so stay tuned! 
 
@@ -14,7 +14,7 @@ Check out my published articles on different topics all relating to the cloud an
 [![Linkedin Badge](https://img.shields.io/badge/-Stacey%20Montes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stacey-montes/)](https://www.linkedin.com/in/stacey-montes/)
 
 
-## ⚡ Technologies 👩‍💻
+## ⚡ Technologies 👩‍💻👩‍👩‍👩‍👩‍👩‍👩‍
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
