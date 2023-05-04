@@ -26,8 +26,7 @@ Check out my published articles on different topics all relating to the cloud an
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Staceym0&theme=react&line_height=40&hide=css"/> </a> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StaceyM0&hide=TeX&layout=compact<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Staceym0&theme=react&line_height=40&hide=css"/> </a>)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=StaceyM0&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StaceyM0&hide=TeX&layout=compact)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=StaceyM0%2FStaceyM0&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=StaceyM0%2FStaceyM0)
