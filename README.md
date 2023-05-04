@@ -30,8 +30,4 @@ Check out my published articles on different topics all relating to the cloud an
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StaceyM0&hide=TeX&layout=compact<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Staceym0&theme=react&line_height=40&hide=css"/> </a>)
 
 
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Staceym0&theme=react&line_height=40&hide=css"/> </a>
-
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=StaceyM0%2FStaceyM0&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=StaceyM0%2FStaceyM0)
