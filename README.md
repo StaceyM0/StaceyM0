@@ -1,6 +1,6 @@
 ### Hey y'all 👋🏼
 
-My name is Stacey and I am a DevOps Cloud Engineer who transitioned from the medical field. Crazy, I know! 😎 What can I say, I love learning! I am working on becoming a DevOps Engineer and then a Solutions Architect. I have my LPI Linux Essentials certification, the AWS Certified Developer Associate, and my Terraform Associate certification!  
+My name is Stacey and I am a DevOps Cloud Engineer who transitioned from the medical field. Crazy, I know! 😎 What can I say, I love learning! I have my LPI Linux Essentials certification, the AWS Certified Developer Associate, and my Terraform Associate certification!  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
